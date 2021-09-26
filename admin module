@@ -1,8 +1,7 @@
 {
-  "developers": ["kazor","slick","daniel],
-  "settings": {
-    "isAdmin": true,
-    "prefix": ":",
-    "lorax": "XDXD"
-  }
+	"developers": ["kazor","slick","daniel"],
+	"settings": {
+		"prefix": ":",
+		"isAdmin": true
+	}
 }
