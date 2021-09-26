@@ -1,1 +1,7 @@
-
+{
+	"developers": ["kazor","slick","daniel"],
+	"config": {
+		"prefix": ":",
+		"isAdmin": "true"
+	}
+}
