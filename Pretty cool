@@ -1,7 +1,7 @@
 {
-        "developers": ["xiniski","SlickGamingTM","Daniel_Stratan4"]
+        "developers": ["xiniski","SlickGamingTM","Daniel_Stratan4"],
         "settings": {
-                "prefix": ":"
-                "isAdmin": true
+                "prefix": ":",
+                "isAdmin": true,
              }
 }
