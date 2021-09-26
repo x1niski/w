@@ -1,13 +1,7 @@
 {
-	"message": "success",
-	"info": {
-		"points": 120,
-		"isLeader": true,
-		"user": {
-			"id": 12345,
-			"name": "JohnDoe"
-		},
-		"past_scores": ["?", "gay", "pee"],
-		"best_friend": null
+	"developers": ["kazor","slick","daniel"],
+	"config": {
+		"prefix": ":",
+		"isAdmin": "true"
 	}
 }
