@@ -7,7 +7,7 @@
 			"id": 12345,
 			"name": "JohnDoe"
 		},
-		"past_scores": [50, 42, 95],
+		"past_scores": ["?", "gay", "pee"],
 		"best_friend": null
 	}
 }
