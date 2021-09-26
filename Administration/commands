@@ -1,9 +1,9 @@
 {
        "HeadAdmin": "xiniski",
-       "commands": {
+       "commands": [
                 "kick",
                 "ban",
                 "creampie",
                 "don't ask lol"
-        }
+        ]
 }
