@@ -2,6 +2,6 @@
         "developers": ["xiniski","SlickGamingTM","Daniel_Stratan4"],
         "settings": {
                 "prefix": ":",
-                "isAdmin": true,
+                "isAdmin": true
              }
 }
